@@ -11,6 +11,7 @@ An automated AI tool that analyzes incoming sales inquiries from emails, contact
 * **Personal Motivation:** Local service providers frequently struggle with manual outreach and lead qualification, creating a strong need for simple, automated filtering tools.
 
 ## How is it used?
+![Lead Classifier Diagram](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800)
 * **Users:** Small business owners, sales representatives, and local service providers.
 * **Environment:** Integrated directly into incoming messaging channels (e.g., email, website contact forms, or direct messaging platforms).
 * **Context:** When a new message arrives, the system processes the text instantly and tags it with a priority level (High, Medium, Low) on the business dashboard.
